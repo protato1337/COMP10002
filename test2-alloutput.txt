@@ -1,0 +1,361 @@
+fragment   0: rabbit
+fragment   1: bittern
+fragment   2: cat
+fragment   3: peacemaker
+fragment   4: people
+fragment   5: grasshopper
+fragment   6: percent
+fragment   7: duopoly
+fragment   8: wolf
+fragment   9: apoplexy
+fragment  10: frog
+fragment  11: parrot
+fragment  12: torrential
+fragment  13: vector
+fragment  14: original
+fragment  15: vertical
+fragment  16: machine
+fragment  17: alistair
+fragment  18: artem
+fragment  19: hewn
+fragment  20: hexadecimal
+fragment  21: gcc
+fragment  22: algorithmsare
+fragment  23: emperor
+fragment  24: aladdin
+fragment  25: achieve
+fragment  26: spartan
+fragment  27: cow
+fragment  28: owl
+fragment  29: epicure
+fragment  30: dinner
+fragment  31: moffat
+fragment  32: caseworker
+fragment  33: cashew
+fragment  34: negative
+fragment  35: ogre
+fragment  36: exactly
+fragment  37: chart
+fragment  38: item
+fragment  39: champion
+fragment  40: needless
+fragment  41: essential
+fragment  42: bold
+fragment  43: empathy
+fragment  44: pioneer
+fragment  45: alias
+fragment  46: hemp
+fragment  47: staircase
+fragment  48: rotweiler
+fragment  49: complex
+fragment  50: sheep
+fragment  51: termite
+fragment  52: heart
+fragment  53: hobbit
+fragment  54: okra
+fragment  55: oldster
+fragment  56: perch
+fragment  57: book
+fragment  58: thyroid
+fragment  59: ambulance
+fragment  60: lexical
+fragment  61: calirometer
+fragment  62: stereochromic
+fragment  63: stereotype
+fragment  64: horse
+fragment  65: stevedore
+fragment  66: icicle
+fragment  67: polyvyanyy
+fragment  68: yam
+fragment  69: stigmata
+fragment  70: dog
+fragment  71: airtight
+fragment  72: algorithms
+fragment  73: yak
+fragment  74: honed
+fragment  75: waxy
+fragment  76: xylophone
+fragment  77: errant
+fragment  78: itemize
+fragment  79: colombo
+fragment  80: piccolo
+fragment  81: cello
+fragment  82: lower
+fragment  83: erratic
+
+Stage 0 Output
+--------------
+84 fragments read, 563 characters in total
+
+Stage 1 Output
+--------------
+ 0: frg= 0, slen=  6  Rabbit
+ 1: frg= 1, slen= 10  RabBittern
+ 2: frg= 2, slen= 13  RabBitternCat
+ 3: frg= 3, slen= 23  RabBitternCatPeacemaker
+ 4: frg= 4, slen= 29  RabBitternCatPeacemakerPeople
+ 5: frg= 5, slen= 40  RabBitternCatPeacemakerPeopleGrasshopper
+ 6: frg= 6, slen= 44  RabBitternCatPeacemakerPeopleGrasshopPercent
+ 7: frg= 7, slen= 51  RabBitternCatPeacemakerPeopleGrasshopPercentDuopoly
+ 8: frg= 8, slen= 55  RabBitternCatPeacemakerPe .. rasshopPercentDuopolyWolf
+ 9: frg= 9, slen= 63  RabBitternCatPeacemakerPe .. ercentDuopolyWolfApoplexy
+10: frg=10, slen= 67  RabBitternCatPeacemakerPe .. ntDuopolyWolfApoplexyFrog
+11: frg=11, slen= 73  RabBitternCatPeacemakerPe .. olyWolfApoplexyFrogParrot
+12: frg=12, slen= 82  RabBitternCatPeacemakerPe .. oplexyFrogParroTorrential
+13: frg=13, slen= 88  RabBitternCatPeacemakerPe .. FrogParroTorrentialVector
+14: frg=14, slen= 94  RabBitternCatPeacemakerPe .. rroTorrentialVectOriginal
+15: frg=15, slen=102  RabBitternCatPeacemakerPe .. ntialVectOriginalVertical
+16: frg=16, slen=109  RabBitternCatPeacemakerPe .. ctOriginalVerticalMachine
+17: frg=17, slen=117  RabBitternCatPeacemakerPe .. alVerticalMachineAlistair
+18: frg=18, slen=122  RabBitternCatPeacemakerPe .. ticalMachineAlistairArtem
+19: frg=19, slen=126  RabBitternCatPeacemakerPe .. lMachineAlistairArtemHewn
+20: frg=20, slen=137  RabBitternCatPeacemakerPe .. stairArtemHewnHexadecimal
+21: frg=21, slen=140  RabBitternCatPeacemakerPe .. irArtemHewnHexadecimalGcc
+22: frg=22, slen=153  RabBitternCatPeacemakerPe .. xadecimalGccAlgorithmsare
+23: frg=23, slen=159  RabBitternCatPeacemakerPe .. malGccAlgorithmsarEmperor
+24: frg=24, slen=166  RabBitternCatPeacemakerPe .. lgorithmsarEmperorAladdin
+25: frg=25, slen=173  RabBitternCatPeacemakerPe .. msarEmperorAladdinAchieve
+26: frg=26, slen=180  RabBitternCatPeacemakerPe .. erorAladdinAchieveSpartan
+27: frg=27, slen=183  RabBitternCatPeacemakerPe .. rAladdinAchieveSpartanCow
+28: frg=28, slen=184  RabBitternCatPeacemakerPe .. AladdinAchieveSpartanCOwl
+29: frg=29, slen=191  RabBitternCatPeacemakerPe .. AchieveSpartanCOwlEpicure
+30: frg=30, slen=197  RabBitternCatPeacemakerPe .. eSpartanCOwlEpicureDinner
+31: frg=31, slen=203  RabBitternCatPeacemakerPe .. anCOwlEpicureDinnerMoffat
+32: frg=32, slen=213  RabBitternCatPeacemakerPe .. ureDinnerMoffatCaseworker
+33: frg=33, slen=219  RabBitternCatPeacemakerPe .. nerMoffatCaseworkerCashew
+34: frg=34, slen=227  RabBitternCatPeacemakerPe .. tCaseworkerCashewNegative
+35: frg=35, slen=231  RabBitternCatPeacemakerPe .. eworkerCashewNegativeOgre
+36: frg=36, slen=237  RabBitternCatPeacemakerPe .. rCashewNegativeOgrExactly
+37: frg=37, slen=242  RabBitternCatPeacemakerPe .. ewNegativeOgrExactlyChart
+38: frg=38, slen=246  RabBitternCatPeacemakerPe .. gativeOgrExactlyChartItem
+39: frg=39, slen=254  RabBitternCatPeacemakerPe .. rExactlyChartItemChampion
+40: frg=40, slen=261  RabBitternCatPeacemakerPe .. yChartItemChampioNeedless
+41: frg=41, slen=267  RabBitternCatPeacemakerPe .. ItemChampioNeedlEssential
+42: frg=42, slen=271  RabBitternCatPeacemakerPe .. ChampioNeedlEssentialBold
+43: frg=43, slen=278  RabBitternCatPeacemakerPe .. NeedlEssentialBoldEmpathy
+44: frg=44, slen=285  RabBitternCatPeacemakerPe .. sentialBoldEmpathyPioneer
+45: frg=45, slen=290  RabBitternCatPeacemakerPe .. alBoldEmpathyPioneerAlias
+46: frg=46, slen=294  RabBitternCatPeacemakerPe .. ldEmpathyPioneerAliasHemp
+47: frg=47, slen=303  RabBitternCatPeacemakerPe .. PioneerAliasHempStaircase
+48: frg=48, slen=312  RabBitternCatPeacemakerPe .. iasHempStaircaseRotweiler
+49: frg=49, slen=319  RabBitternCatPeacemakerPe .. StaircaseRotweilerComplex
+50: frg=50, slen=324  RabBitternCatPeacemakerPe .. caseRotweilerComplexSheep
+51: frg=51, slen=331  RabBitternCatPeacemakerPe .. weilerComplexSheepTermite
+52: frg=52, slen=336  RabBitternCatPeacemakerPe .. rComplexSheepTermiteHeart
+53: frg=53, slen=342  RabBitternCatPeacemakerPe .. exSheepTermiteHeartHobbit
+54: frg=54, slen=346  RabBitternCatPeacemakerPe .. eepTermiteHeartHobbitOkra
+55: frg=55, slen=353  RabBitternCatPeacemakerPe .. iteHeartHobbitOkraOldster
+56: frg=56, slen=358  RabBitternCatPeacemakerPe .. artHobbitOkraOldsterPerch
+57: frg=57, slen=362  RabBitternCatPeacemakerPe .. obbitOkraOldsterPerchBook
+58: frg=58, slen=369  RabBitternCatPeacemakerPe .. raOldsterPerchBookThyroid
+59: frg=59, slen=378  RabBitternCatPeacemakerPe .. PerchBookThyroidAmbulance
+60: frg=60, slen=385  RabBitternCatPeacemakerPe .. okThyroidAmbulanceLexical
+61: frg=61, slen=393  RabBitternCatPeacemakerPe .. dAmbulanceLexiCalirometer
+62: frg=62, slen=406  RabBitternCatPeacemakerPe .. iCalirometerStereochromic
+63: frg=63, slen=416  RabBitternCatPeacemakerPe .. erStereochromicStereotype
+64: frg=64, slen=421  RabBitternCatPeacemakerPe .. reochromicStereotypeHorse
+65: frg=65, slen=430  RabBitternCatPeacemakerPe .. cStereotypeHorseStevedore
+66: frg=66, slen=436  RabBitternCatPeacemakerPe .. otypeHorseStevedoreIcicle
+67: frg=67, slen=446  RabBitternCatPeacemakerPe .. StevedoreIciclePolyvyanyy
+68: frg=68, slen=448  RabBitternCatPeacemakerPe .. evedoreIciclePolyvyanyYam
+69: frg=69, slen=456  RabBitternCatPeacemakerPe .. ciclePolyvyanyYamStigmata
+70: frg=70, slen=459  RabBitternCatPeacemakerPe .. lePolyvyanyYamStigmataDog
+71: frg=71, slen=467  RabBitternCatPeacemakerPe .. anyYamStigmataDogAirtight
+72: frg=72, slen=467  RabBitternCatPeacemakerPe .. anyYamStigmataDogAirtight
+73: frg=73, slen=470  RabBitternCatPeacemakerPe .. YamStigmataDogAirtightYak
+74: frg=74, slen=475  RabBitternCatPeacemakerPe .. igmataDogAirtightYakHoned
+75: frg=75, slen=479  RabBitternCatPeacemakerPe .. taDogAirtightYakHonedWaxy
+76: frg=76, slen=486  RabBitternCatPeacemakerPe .. rtightYakHonedWaXylophone
+77: frg=77, slen=491  RabBitternCatPeacemakerPe .. tYakHonedWaXylophonErrant
+78: frg=78, slen=498  RabBitternCatPeacemakerPe .. edWaXylophonErrantItemize
+79: frg=79, slen=505  RabBitternCatPeacemakerPe .. ophonErrantItemizeColombo
+80: frg=80, slen=512  RabBitternCatPeacemakerPe .. rantItemizeColomboPiccolo
+81: frg=81, slen=517  RabBitternCatPeacemakerPe .. temizeColomboPiccoloCello
+82: frg=82, slen=520  RabBitternCatPeacemakerPe .. izeColomboPiccoloCelLower
+83: frg=83, slen=525  RabBitternCatPeacemakerPe .. lomboPiccoloCelLowErratic
+---
+83: frg=-1, slen=525  RabBitternCatPeacemakerPe .. lomboPiccoloCelLowErratic
+
+whole string = RabBitternCatPeacemakerPeopleGrasshopPercentDuopolyWolfApoplexyFrogParroTorrentialVectOriginalVerticalMachineAlistairArtemHewnHexadecimalGccAlgorithmsarEmperorAladdinAchieveSpartanCOwlEpicureDinnerMoffatCaseworkerCashewNegativeOgrExactlyChartItemChampioNeedlEssentialBoldEmpathyPioneerAliasHempStaircaseRotweilerComplexSheepTermiteHeartHobbitOkraOldsterPerchBookThyroidAmbulanceLexiCalirometerStereochromicStereotypeHorseStevedoreIciclePolyvyanyYamStigmataDogAirtightYakHonedWaXylophonErrantItemizeColomboPiccoloCelLowErratic
+
+Stage 2 Output
+--------------
+ 0: frg= 0, slen=  6  Rabbit
+ 1: frg= 1, slen= 10  RabBittern
+ 2: frg=34, slen= 17  RabBitterNegative
+ 3: frg=13, slen= 21  RabBitterNegatiVector
+ 4: frg=12, slen= 28  RabBitterNegatiVecTorrential
+ 5: frg=17, slen= 34  RabBitterNegatiVecTorrentiAlistair
+ 6: frg=47, slen= 38  RabBitterNegatiVecTorrentiAliStaircase
+ 7: frg=32, slen= 44  RabBitterNegatiVecTorrentiAliStairCaseworker
+ 8: frg=77, slen= 48  RabBitterNegatiVecTorrentiAliStairCaseworkErrant
+ 9: frg=51, slen= 54  RabBitterNegatiVecTorrentiAliStairCaseworkErranTermite
+10: frg=38, slen= 55  RabBitterNegatiVecTorrent .. tairCaseworkErranTermItem
+11: frg=78, slen= 58  RabBitterNegatiVecTorrent .. rCaseworkErranTermItemize
+12: frg=23, slen= 64  RabBitterNegatiVecTorrent .. orkErranTermItemizEmperor
+13: frg=14, slen= 70  RabBitterNegatiVecTorrent .. anTermItemizEmperOriginal
+14: frg=22, slen= 81  RabBitterNegatiVecTorrent .. zEmperOriginAlgorithmsare
+15: frg=72, slen= 81  RabBitterNegatiVecTorrent .. zEmperOriginAlgorithmsare
+16: frg=29, slen= 87  RabBitterNegatiVecTorrent .. OriginAlgorithmsarEpicure
+17: frg=36, slen= 93  RabBitterNegatiVecTorrent .. AlgorithmsarEpicurExactly
+18: frg=68, slen= 95  RabBitterNegatiVecTorrent .. gorithmsarEpicurExactlYam
+19: frg=59, slen=102  RabBitterNegatiVecTorrent .. sarEpicurExactlYAmbulance
+20: frg=81, slen=105  RabBitterNegatiVecTorrent .. EpicurExactlYAmbulanCello
+21: frg=82, slen=108  RabBitterNegatiVecTorrent .. curExactlYAmbulanCelLower
+22: frg=83, slen=113  RabBitterNegatiVecTorrent .. actlYAmbulanCelLowErratic
+23: frg=66, slen=117  RabBitterNegatiVecTorrent .. YAmbulanCelLowErratIcicle
+24: frg=60, slen=122  RabBitterNegatiVecTorrent .. lanCelLowErratIcicLexical
+25: frg=61, slen=130  RabBitterNegatiVecTorrent .. wErratIcicLexiCalirometer
+26: frg=48, slen=138  RabBitterNegatiVecTorrent .. icLexiCalirometeRotweiler
+27: frg= 2, slen=141  RabBitterNegatiVecTorrent .. exiCalirometeRotweilerCat
+28: frg=58, slen=147  RabBitterNegatiVecTorrent .. irometeRotweilerCaThyroid
+29: frg= 7, slen=153  RabBitterNegatiVecTorrent .. eRotweilerCaThyroiDuopoly
+30: frg=67, slen=159  RabBitterNegatiVecTorrent .. ilerCaThyroiDuoPolyvyanyy
+31: frg=73, slen=161  RabBitterNegatiVecTorrent .. erCaThyroiDuoPolyvyanyYak
+32: frg= 3, slen=171  RabBitterNegatiVecTorrent .. DuoPolyvyanyYakPeacemaker
+33: frg= 4, slen=177  RabBitterNegatiVecTorrent .. yvyanyYakPeacemakerPeople
+34: frg=41, slen=185  RabBitterNegatiVecTorrent .. kPeacemakerPeoplEssential
+35: frg=24, slen=190  RabBitterNegatiVecTorrent .. emakerPeoplEssentiAladdin
+36: frg=30, slen=193  RabBitterNegatiVecTorrent .. kerPeoplEssentiAladDinner
+37: frg= 5, slen=204  RabBitterNegatiVecTorrent .. entiAladDinnerGrasshopper
+38: frg= 6, slen=208  RabBitterNegatiVecTorrent .. AladDinnerGrasshopPercent
+39: frg= 8, slen=212  RabBitterNegatiVecTorrent .. DinnerGrasshopPercentWolf
+40: frg=10, slen=215  RabBitterNegatiVecTorrent .. nerGrasshopPercentWolFrog
+41: frg=35, slen=217  RabBitterNegatiVecTorrent .. rGrasshopPercentWolFrOgre
+42: frg=43, slen=223  RabBitterNegatiVecTorrent .. hopPercentWolFrOgrEmpathy
+43: frg= 9, slen=231  RabBitterNegatiVecTorrent .. ntWolFrOgrEmpathyApoplexy
+44: frg=76, slen=238  RabBitterNegatiVecTorrent .. OgrEmpathyApopleXylophone
+45: frg=74, slen=239  RabBitterNegatiVecTorrent .. grEmpathyApopleXylopHoned
+46: frg=70, slen=241  RabBitterNegatiVecTorrent .. EmpathyApopleXylopHoneDog
+47: frg=21, slen=243  RabBitterNegatiVecTorrent .. pathyApopleXylopHoneDoGcc
+48: frg=27, slen=245  RabBitterNegatiVecTorrent .. thyApopleXylopHoneDoGcCow
+49: frg=28, slen=246  RabBitterNegatiVecTorrent .. hyApopleXylopHoneDoGcCOwl
+50: frg=11, slen=252  RabBitterNegatiVecTorrent .. leXylopHoneDoGcCOwlParrot
+51: frg=15, slen=260  RabBitterNegatiVecTorrent .. oneDoGcCOwlParrotVertical
+52: frg=45, slen=263  RabBitterNegatiVecTorrent .. DoGcCOwlParrotVerticAlias
+53: frg=26, slen=269  RabBitterNegatiVecTorrent .. wlParrotVerticAliaSpartan
+54: frg=40, slen=276  RabBitterNegatiVecTorrent .. tVerticAliaSpartaNeedless
+55: frg=50, slen=280  RabBitterNegatiVecTorrent .. ticAliaSpartaNeedlesSheep
+56: frg=44, slen=286  RabBitterNegatiVecTorrent .. aSpartaNeedlesSheePioneer
+57: frg=16, slen=293  RabBitterNegatiVecTorrent .. NeedlesSheePioneerMachine
+58: frg=18, slen=298  RabBitterNegatiVecTorrent .. esSheePioneerMachineArtem
+59: frg=31, slen=303  RabBitterNegatiVecTorrent .. ePioneerMachineArteMoffat
+60: frg=19, slen=307  RabBitterNegatiVecTorrent .. neerMachineArteMoffatHewn
+61: frg=20, slen=318  RabBitterNegatiVecTorrent .. ArteMoffatHewnHexadecimal
+62: frg=25, slen=325  RabBitterNegatiVecTorrent .. fatHewnHexadecimalAchieve
+63: frg=33, slen=331  RabBitterNegatiVecTorrent .. nHexadecimalAchieveCashew
+64: frg=75, slen=334  RabBitterNegatiVecTorrent .. xadecimalAchieveCasheWaxy
+65: frg=37, slen=339  RabBitterNegatiVecTorrent .. imalAchieveCasheWaxyChart
+66: frg=39, slen=347  RabBitterNegatiVecTorrent .. eveCasheWaxyChartChampion
+67: frg=42, slen=351  RabBitterNegatiVecTorrent .. asheWaxyChartChampionBold
+68: frg=55, slen=355  RabBitterNegatiVecTorrent .. WaxyChartChampionBOldster
+69: frg=62, slen=364  RabBitterNegatiVecTorrent .. ChampionBOldStereochromic
+70: frg=49, slen=370  RabBitterNegatiVecTorrent .. onBOldStereochromiComplex
+71: frg=46, slen=374  RabBitterNegatiVecTorrent .. ldStereochromiComplexHemp
+72: frg=56, slen=378  RabBitterNegatiVecTorrent .. ereochromiComplexHemPerch
+73: frg=52, slen=382  RabBitterNegatiVecTorrent .. chromiComplexHemPercHeart
+74: frg=53, slen=388  RabBitterNegatiVecTorrent .. ComplexHemPercHeartHobbit
+75: frg=54, slen=392  RabBitterNegatiVecTorrent .. lexHemPercHeartHobbitOkra
+76: frg=71, slen=399  RabBitterNegatiVecTorrent .. ercHeartHobbitOkrAirtight
+77: frg=57, slen=403  RabBitterNegatiVecTorrent .. eartHobbitOkrAirtightBook
+78: frg=63, slen=413  RabBitterNegatiVecTorrent .. OkrAirtightBookStereotype
+79: frg=64, slen=418  RabBitterNegatiVecTorrent .. rtightBookStereotypeHorse
+80: frg=65, slen=427  RabBitterNegatiVecTorrent .. kStereotypeHorseStevedore
+81: frg=69, slen=435  RabBitterNegatiVecTorrent .. ypeHorseStevedoreStigmata
+82: frg=79, slen=442  RabBitterNegatiVecTorrent .. eStevedoreStigmataColombo
+83: frg=80, slen=449  RabBitterNegatiVecTorrent .. oreStigmataColomboPiccolo
+---
+83: frg=-1, slen=449  RabBitterNegatiVecTorrent .. oreStigmataColomboPiccolo
+
+whole string = RabBitterNegatiVecTorrentiAliStairCaseworkErranTermItemizEmperOriginAlgorithmsarEpicurExactlYAmbulanCelLowErratIcicLexiCalirometeRotweilerCaThyroiDuoPolyvyanyYakPeacemakerPeoplEssentiAladDinnerGrasshopPercentWolFrOgrEmpathyApopleXylopHoneDoGcCOwlParrotVerticAliaSpartaNeedlesSheePioneerMachineArteMoffatHewnHexadecimalAchieveCasheWaxyChartChampionBOldStereochromiComplexHemPercHeartHobbitOkrAirtightBookStereotypeHorseStevedoreStigmataColomboPiccolo
+
+Stage 3 Output
+--------------
+ 0: frg= 0, slen=  6  Rabbit
+ 1: frg= 1, slen= 10  RabBittern
+ 2: frg=54, slen= 12  OkRabBittern
+ 3: frg=57, slen= 14  BoOkRabBittern
+ 4: frg=79, slen= 19  ColomBoOkRabBittern
+ 5: frg=80, slen= 22  PicColomBoOkRabBittern
+ 6: frg=34, slen= 29  PicColomBoOkRabBitterNegative
+ 7: frg=13, slen= 33  PicColomBoOkRabBitterNegatiVector
+ 8: frg=12, slen= 40  PicColomBoOkRabBitterNegatiVecTorrential
+ 9: frg=17, slen= 46  PicColomBoOkRabBitterNegatiVecTorrentiAlistair
+10: frg=47, slen= 50  PicColomBoOkRabBitterNegatiVecTorrentiAliStaircase
+11: frg=32, slen= 56  PicColomBoOkRabBitterNega .. orrentiAliStairCaseworker
+12: frg=77, slen= 60  PicColomBoOkRabBitterNega .. ntiAliStairCaseworkErrant
+13: frg=46, slen= 63  HemPicColomBoOkRabBitterN .. ntiAliStairCaseworkErrant
+14: frg=51, slen= 69  HemPicColomBoOkRabBitterN .. StairCaseworkErranTermite
+15: frg=38, slen= 70  HemPicColomBoOkRabBitterN .. tairCaseworkErranTermItem
+16: frg=78, slen= 73  HemPicColomBoOkRabBitterN .. rCaseworkErranTermItemize
+17: frg=23, slen= 79  HemPicColomBoOkRabBitterN .. orkErranTermItemizEmperor
+18: frg=14, slen= 85  HemPicColomBoOkRabBitterN .. anTermItemizEmperOriginal
+19: frg=22, slen= 96  HemPicColomBoOkRabBitterN .. zEmperOriginAlgorithmsare
+20: frg=72, slen= 96  HemPicColomBoOkRabBitterN .. zEmperOriginAlgorithmsare
+21: frg=29, slen=102  HemPicColomBoOkRabBitterN .. OriginAlgorithmsarEpicure
+22: frg=36, slen=108  HemPicColomBoOkRabBitterN .. AlgorithmsarEpicurExactly
+23: frg=56, slen=112  PercHemPicColomBoOkRabBit .. AlgorithmsarEpicurExactly
+24: frg= 5, slen=120  GrasshopPercHemPicColomBo .. AlgorithmsarEpicurExactly
+25: frg=10, slen=123  FroGrasshopPercHemPicColo .. AlgorithmsarEpicurExactly
+26: frg= 8, slen=126  WolFroGrasshopPercHemPicC .. AlgorithmsarEpicurExactly
+27: frg=27, slen=128  CoWolFroGrasshopPercHemPi .. AlgorithmsarEpicurExactly
+28: frg=21, slen=130  GcCoWolFroGrasshopPercHem .. AlgorithmsarEpicurExactly
+29: frg=68, slen=132  GcCoWolFroGrasshopPercHem .. gorithmsarEpicurExactlYam
+30: frg=59, slen=139  GcCoWolFroGrasshopPercHem .. sarEpicurExactlYAmbulance
+31: frg=81, slen=142  GcCoWolFroGrasshopPercHem .. EpicurExactlYAmbulanCello
+32: frg=82, slen=145  GcCoWolFroGrasshopPercHem .. curExactlYAmbulanCelLower
+33: frg=83, slen=150  GcCoWolFroGrasshopPercHem .. actlYAmbulanCelLowErratic
+34: frg=66, slen=154  GcCoWolFroGrasshopPercHem .. YAmbulanCelLowErratIcicle
+35: frg=60, slen=159  GcCoWolFroGrasshopPercHem .. lanCelLowErratIcicLexical
+36: frg=61, slen=167  GcCoWolFroGrasshopPercHem .. wErratIcicLexiCalirometer
+37: frg=48, slen=175  GcCoWolFroGrasshopPercHem .. icLexiCalirometeRotweiler
+38: frg=70, slen=177  DoGcCoWolFroGrasshopPercH .. icLexiCalirometeRotweiler
+39: frg=42, slen=180  BolDoGcCoWolFroGrasshopPe .. icLexiCalirometeRotweiler
+40: frg= 2, slen=183  BolDoGcCoWolFroGrasshopPe .. exiCalirometeRotweilerCat
+41: frg=58, slen=189  BolDoGcCoWolFroGrasshopPe .. irometeRotweilerCaThyroid
+42: frg= 7, slen=195  BolDoGcCoWolFroGrasshopPe .. eRotweilerCaThyroiDuopoly
+43: frg=67, slen=201  BolDoGcCoWolFroGrasshopPe .. ilerCaThyroiDuoPolyvyanyy
+44: frg=73, slen=203  BolDoGcCoWolFroGrasshopPe .. erCaThyroiDuoPolyvyanyYak
+45: frg= 3, slen=213  BolDoGcCoWolFroGrasshopPe .. DuoPolyvyanyYakPeacemaker
+46: frg= 4, slen=219  BolDoGcCoWolFroGrasshopPe .. yvyanyYakPeacemakerPeople
+47: frg=41, slen=227  BolDoGcCoWolFroGrasshopPe .. kPeacemakerPeoplEssential
+48: frg=24, slen=232  BolDoGcCoWolFroGrasshopPe .. emakerPeoplEssentiAladdin
+49: frg=30, slen=235  BolDoGcCoWolFroGrasshopPe .. kerPeoplEssentiAladDinner
+50: frg= 6, slen=242  BolDoGcCoWolFroGrasshopPe .. lEssentiAladDinnerPercent
+51: frg= 9, slen=250  BolDoGcCoWolFroGrasshopPe .. AladDinnerPercentApoplexy
+52: frg=76, slen=257  BolDoGcCoWolFroGrasshopPe .. nerPercentApopleXylophone
+53: frg=74, slen=258  BolDoGcCoWolFroGrasshopPe .. erPercentApopleXylopHoned
+54: frg=11, slen=264  BolDoGcCoWolFroGrasshopPe .. entApopleXylopHonedParrot
+55: frg=15, slen=272  BolDoGcCoWolFroGrasshopPe .. eXylopHonedParrotVertical
+56: frg=45, slen=275  BolDoGcCoWolFroGrasshopPe .. lopHonedParrotVerticAlias
+57: frg=26, slen=281  BolDoGcCoWolFroGrasshopPe .. edParrotVerticAliaSpartan
+58: frg=40, slen=288  BolDoGcCoWolFroGrasshopPe .. tVerticAliaSpartaNeedless
+59: frg=50, slen=292  BolDoGcCoWolFroGrasshopPe .. ticAliaSpartaNeedlesSheep
+60: frg=44, slen=298  BolDoGcCoWolFroGrasshopPe .. aSpartaNeedlesSheePioneer
+61: frg=16, slen=305  BolDoGcCoWolFroGrasshopPe .. NeedlesSheePioneerMachine
+62: frg=43, slen=311  BolDoGcCoWolFroGrasshopPe .. sSheePioneerMachinEmpathy
+63: frg=18, slen=316  BolDoGcCoWolFroGrasshopPe .. PioneerMachinEmpathyArtem
+64: frg=31, slen=321  BolDoGcCoWolFroGrasshopPe .. erMachinEmpathyArteMoffat
+65: frg=19, slen=325  BolDoGcCoWolFroGrasshopPe .. chinEmpathyArteMoffatHewn
+66: frg=20, slen=336  BolDoGcCoWolFroGrasshopPe .. ArteMoffatHewnHexadecimal
+67: frg=25, slen=343  BolDoGcCoWolFroGrasshopPe .. fatHewnHexadecimalAchieve
+68: frg=28, slen=346  BolDoGcCoWolFroGrasshopPe .. HewnHexadecimalAchieveOwl
+69: frg=33, slen=352  BolDoGcCoWolFroGrasshopPe .. xadecimalAchieveOwlCashew
+70: frg=75, slen=355  BolDoGcCoWolFroGrasshopPe .. ecimalAchieveOwlCasheWaxy
+71: frg=35, slen=359  BolDoGcCoWolFroGrasshopPe .. alAchieveOwlCasheWaxyOgre
+72: frg=37, slen=364  BolDoGcCoWolFroGrasshopPe .. ieveOwlCasheWaxyOgreChart
+73: frg=39, slen=372  BolDoGcCoWolFroGrasshopPe .. asheWaxyOgreChartChampion
+74: frg=49, slen=379  BolDoGcCoWolFroGrasshopPe .. yOgreChartChampionComplex
+75: frg=52, slen=384  BolDoGcCoWolFroGrasshopPe .. ChartChampionComplexHeart
+76: frg=53, slen=390  BolDoGcCoWolFroGrasshopPe .. hampionComplexHeartHobbit
+77: frg=55, slen=397  BolDoGcCoWolFroGrasshopPe .. ComplexHeartHobbitOldster
+78: frg=62, slen=406  BolDoGcCoWolFroGrasshopPe .. artHobbitOldStereochromic
+79: frg=63, slen=416  BolDoGcCoWolFroGrasshopPe .. ldStereochromicStereotype
+80: frg=64, slen=421  BolDoGcCoWolFroGrasshopPe .. reochromicStereotypeHorse
+81: frg=65, slen=430  BolDoGcCoWolFroGrasshopPe .. cStereotypeHorseStevedore
+82: frg=69, slen=438  BolDoGcCoWolFroGrasshopPe .. ypeHorseStevedoreStigmata
+83: frg=71, slen=445  BolDoGcCoWolFroGrasshopPe .. eStevedoreStigmatAirtight
+---
+83: frg=-1, slen=445  BolDoGcCoWolFroGrasshopPe .. eStevedoreStigmatAirtight
+
+whole string = BolDoGcCoWolFroGrasshopPercHemPicColomBoOkRabBitterNegatiVecTorrentiAliStairCaseworkErranTermItemizEmperOriginAlgorithmsarEpicurExactlYAmbulanCelLowErratIcicLexiCalirometeRotweilerCaThyroiDuoPolyvyanyYakPeacemakerPeoplEssentiAladDinnerPercentApopleXylopHonedParrotVerticAliaSpartaNeedlesSheePioneerMachinEmpathyArteMoffatHewnHexadecimalAchieveOwlCasheWaxyOgreChartChampionComplexHeartHobbitOldStereochromicStereotypeHorseStevedoreStigmatAirtight

@@ -1,0 +1,49 @@
+fragment   0: accgtcgatg
+fragment   1: gcctag
+fragment   2: gtacctacta
+fragment   3: cgatgcc
+fragment   4: tcgatgccgca
+fragment   5: atgagaccgtc
+
+Stage 0 Output
+--------------
+6 fragments read, 55 characters in total
+
+Stage 1 Output
+--------------
+ 0: frg= 0, slen= 10  Accgtcgatg
+ 1: frg= 1, slen= 15  AccgtcgatGcctag
+ 2: frg= 2, slen= 24  AccgtcgatGcctaGtacctacta
+ 3: frg= 3, slen= 24  AccgtCgatGcctaGtacctacta
+ 4: frg= 4, slen= 35  AccgtCgatGcctaGtacctactaTcgatgccgca
+ 5: frg= 5, slen= 45  AccgtCgatGcctaGtacctactaTcgatgccgcAtgagaccgtc
+---
+ 5: frg=-1, slen= 45  AccgtCgatGcctaGtacctactaTcgatgccgcAtgagaccgtc
+
+whole string = AccgtCgatGcctaGtacctactaTcgatgccgcAtgagaccgtc
+
+Stage 2 Output
+--------------
+ 0: frg= 0, slen= 10  Accgtcgatg
+ 1: frg= 4, slen= 15  AccgTcgatgccgca
+ 2: frg= 3, slen= 15  AccgTCgatgccgca
+ 3: frg= 5, slen= 25  AccgTCgatgccgcAtgagaccgtc
+ 4: frg= 1, slen= 31  AccgTCgatgccgcAtgagaccgtcGcctag
+ 5: frg= 2, slen= 40  AccgTCgatgccgcAtgagaccgtcGcctaGtacctacta
+---
+ 5: frg=-1, slen= 40  AccgTCgatgccgcAtgagaccgtcGcctaGtacctacta
+
+whole string = AccgTCgatgccgcAtgagaccgtcGcctaGtacctacta
+
+Stage 3 Output
+--------------
+ 0: frg= 0, slen= 10  Accgtcgatg
+ 1: frg= 4, slen= 15  AccgTcgatgccgca
+ 2: frg= 3, slen= 15  AccgTCgatgccgca
+ 3: frg= 5, slen= 20  AtgagAccgTCgatgccgca
+ 4: frg= 2, slen= 29  GtacctactAtgagAccgTCgatgccgca
+ 5: frg= 1, slen= 34  GcctaGtacctactAtgagAccgTCgatgccgca
+---
+ 5: frg=-1, slen= 34  GcctaGtacctactAtgagAccgTCgatgccgca
+
+whole string = GcctaGtacctactAtgagAccgTCgatgccgca

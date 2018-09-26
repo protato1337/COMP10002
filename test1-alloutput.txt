@@ -1,0 +1,89 @@
+fragment   0: ccgtcgatg
+fragment   1: atgcccgt
+fragment   2: gtacctacta
+fragment   3: cgatgcc
+fragment   4: tactaccattga
+fragment   5: tgagtagga
+fragment   6: accgtcgatg
+fragment   7: tccaggtatca
+fragment   8: catcatcatggtac
+fragment   9: tggccatcatact
+fragment  10: ctgcctac
+fragment  11: tgga
+fragment  12: gatgctacta
+fragment  13: ggattatt
+fragment  14: actacatagg
+fragment  15: ctctccgatcca
+
+Stage 0 Output
+--------------
+16 fragments read, 155 characters in total
+
+Stage 1 Output
+--------------
+ 0: frg= 0, slen=  9  Ccgtcgatg
+ 1: frg= 1, slen= 14  CcgtcgAtgcccgt
+ 2: frg= 2, slen= 22  CcgtcgAtgcccGtacctacta
+ 3: frg= 3, slen= 22  CcgtCgAtgcccGtacctacta
+ 4: frg= 4, slen= 29  CcgtCgAtgcccGtaccTactaccattga
+ 5: frg= 5, slen= 35  CcgtCgAtgcccGtaccTactaccatTgagtagga
+ 6: frg= 6, slen= 44  CcgtCgAtgcccGtaccTactaccatTgagtaggAccgtcgatg
+ 7: frg= 7, slen= 55  CcgtCgAtgcccGtaccTactacca .. taggAccgtcgatgTccaggtatca
+ 8: frg= 8, slen= 67  CcgtCgAtgcccGtaccTactacca .. tgTccaggtatCatcatcatggtac
+ 9: frg= 9, slen= 80  CcgtCgAtgcccGtaccTactacca .. tcatcatggtacTggccatcatact
+10: frg=10, slen= 86  CcgtCgAtgcccGtaccTactacca .. tggtacTggccatcataCtgcctac
+11: frg=11, slen= 90  CcgtCgAtgcccGtaccTactacca .. acTggccatcataCtgcctacTgga
+12: frg=12, slen= 98  CcgtCgAtgcccGtaccTactacca .. tcataCtgcctacTgGatgctacta
+13: frg=13, slen=106  CcgtCgAtgcccGtaccTactacca .. cctacTgGatgctactaGgattatt
+14: frg=14, slen=116  CcgtCgAtgcccGtaccTactacca .. gctactaGgattattActacatagg
+15: frg=15, slen=128  CcgtCgAtgcccGtaccTactacca .. attActacataggCtctccgatcca
+---
+15: frg=-1, slen=128  CcgtCgAtgcccGtaccTactacca .. attActacataggCtctccgatcca
+
+whole string = CcgtCgAtgcccGtaccTactaccatTgagtaggAccgtcgatgTccaggtatCatcatcatggtacTggccatcataCtgcctacTgGatgctactaGgattattActacataggCtctccgatcca
+
+Stage 2 Output
+--------------
+ 0: frg= 0, slen=  9  Ccgtcgatg
+ 1: frg= 3, slen= 11  CcgtCgatgcc
+ 2: frg= 1, slen= 14  CcgtCgAtgcccgt
+ 3: frg= 2, slen= 22  CcgtCgAtgcccGtacctacta
+ 4: frg= 4, slen= 29  CcgtCgAtgcccGtaccTactaccattga
+ 5: frg= 5, slen= 35  CcgtCgAtgcccGtaccTactaccatTgagtagga
+ 6: frg=13, slen= 40  CcgtCgAtgcccGtaccTactaccatTgagtaGgattatt
+ 7: frg= 7, slen= 50  CcgtCgAtgcccGtaccTactaccatTgagtaGgattatTccaggtatca
+ 8: frg= 8, slen= 62  CcgtCgAtgcccGtaccTactacca .. atTccaggtatCatcatcatggtac
+ 9: frg= 6, slen= 70  CcgtCgAtgcccGtaccTactacca .. tatCatcatcatggtAccgtcgatg
+10: frg=12, slen= 76  CcgtCgAtgcccGtaccTactacca .. catcatggtAccgtcGatgctacta
+11: frg=14, slen= 82  CcgtCgAtgcccGtaccTactacca .. ggtAccgtcGatgctActacatagg
+12: frg= 9, slen= 95  CcgtCgAtgcccGtaccTactacca .. ctActacataggTggccatcatact
+13: frg=10, slen=101  CcgtCgAtgcccGtaccTactacca .. cataggTggccatcataCtgcctac
+14: frg=15, slen=112  CcgtCgAtgcccGtaccTactacca .. atcataCtgcctaCtctccgatcca
+15: frg=11, slen=116  CcgtCgAtgcccGtaccTactacca .. taCtgcctaCtctccgatccaTgga
+---
+15: frg=-1, slen=116  CcgtCgAtgcccGtaccTactacca .. taCtgcctaCtctccgatccaTgga
+
+whole string = CcgtCgAtgcccGtaccTactaccatTgagtaGgattatTccaggtatCatcatcatggtAccgtcGatgctActacataggTggccatcataCtgcctaCtctccgatccaTgga
+
+Stage 3 Output
+--------------
+ 0: frg= 0, slen=  9  Ccgtcgatg
+ 1: frg= 6, slen= 10  ACcgtcgatg
+ 2: frg= 3, slen= 12  ACcgtCgatgcc
+ 3: frg= 1, slen= 15  ACcgtCgAtgcccgt
+ 4: frg= 2, slen= 23  ACcgtCgAtgcccGtacctacta
+ 5: frg= 4, slen= 30  ACcgtCgAtgcccGtaccTactaccattga
+ 6: frg= 5, slen= 36  ACcgtCgAtgcccGtaccTactaccatTgagtagga
+ 7: frg=13, slen= 41  ACcgtCgAtgcccGtaccTactaccatTgagtaGgattatt
+ 8: frg= 8, slen= 53  CatcatcatggtACcgtCgAtgcccGtaccTactaccatTgagtaGgattatt
+ 9: frg= 7, slen= 62  TccaggtatCatcatcatggtACcg .. ccTactaccatTgagtaGgattatt
+10: frg=15, slen= 70  CtctccgaTccaggtatCatcatca .. ccTactaccatTgagtaGgattatt
+11: frg= 9, slen= 81  TggccatcataCtctccgaTccagg .. ccTactaccatTgagtaGgattatt
+12: frg=11, slen= 84  TggccatcataCtctccgaTccagg .. actaccatTgagtaGgattatTgga
+13: frg=12, slen= 92  TggccatcataCtctccgaTccagg .. TgagtaGgattatTgGatgctacta
+14: frg=14, slen= 98  TggccatcataCtctccgaTccagg .. GgattatTgGatgctActacatagg
+15: frg=10, slen=106  TggccatcataCtctccgaTccagg .. gGatgctActacataggCtgcctac
+---
+15: frg=-1, slen=106  TggccatcataCtctccgaTccagg .. gGatgctActacataggCtgcctac
+
+whole string = TggccatcataCtctccgaTccaggtatCatcatcatggtACcgtCgAtgcccGtaccTactaccatTgagtaGgattatTgGatgctActacataggCtgcctac
